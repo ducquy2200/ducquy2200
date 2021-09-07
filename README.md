@@ -27,10 +27,10 @@ I am a very dedicated coder who is very interested in web development and softwa
  
  ---
  
- #### Thanks For Visiting and Feel Free to Connect:
+ #### Thanks For Visiting and Feel Free To Reach Out To Me Through:
+ - [Personal Email](mailto:ducquy2200@gmail.com)
+ - [Business Email](mailto:qd2do@uwaterloo.ca)
  - [LinkedIn](https://www.linkedin.com/in/ducquy2200/)
  - [Facebook](https://www.facebook.com/tony.quy.2200/)
  - [Instagram](https://www.instagram.com/ducquy2200/)
  - [Twitter](https://twitter.com/ducquy2200)
- - [Personal Email](mailto:ducquy2200@gmail.com)
- - [Business Email](mailto:qd2do@uwaterloo.ca)
