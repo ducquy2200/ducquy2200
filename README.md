@@ -16,9 +16,9 @@ I am a very dedicated coder who is very interested in web development and softwa
 
 ### Aspects that I am currently interested in or exploring
 - AI, ML, Deep Learning
-- DevOps
+- Web Development, DevOps
+- Fireware (Rasberry Pi, Arduino, Microcontroller)
 - Cyber Security
-- Game Development
 
 ---
 
