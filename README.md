@@ -8,7 +8,7 @@ I am a very dedicated coder who is very interested in web development and softwa
 - Second year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓🎓🎓
 - Current Data Scientist/Software Developer at [Digital Kitchener Innovation Lab](https://www.kitchener.ca/en/strategic-plans-and-projects/digital-kitchener.aspx)
 - Current Full Stack Mobile Developer at [Felicity](https://bhsc.mcmaster.ca/the-felicity-app-enhancing-productivity-with-psychological-interventions/) 
-- Current Firmware Developer at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/)
+- Former Firmware Developer at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/)
 - Former Web Developer Lead at [Digitera Interactive](https://digitera.agency)
 - Former Back End Java Developer at [Walletifai](https://walletifai.com)
 - Former Junior Machine Learning Developer at [AltaML](https://www.altaml.com)
