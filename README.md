@@ -18,7 +18,7 @@ I am a very dedicated coder who is very interested in web development and softwa
 - AI, ML, Deep Learning
 - Web Development, DevOps
 - Firmware Development (Rasberry Pi, Arduino, Microcontroller, etc)
-- Cyber Security
+- OS Kernel Development
 
 ---
 
