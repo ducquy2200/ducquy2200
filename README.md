@@ -1,13 +1,14 @@
 ## Hi there, I am Quy Duc Do!
 
-I am currently a second year Software Engineering student at Univeristy of Waterloo.
+I am currently a third year Software Engineering student at Univeristy of Waterloo.
 
-I am a very dedicated coder who is very interested in web development and software engineering. Recently, I have been digging deep in Augmented Reality, Artificial Intelligence, Machine Learning, and Deep Learning.
+I am a very dedicated coder who is very interested in web development and software engineering. Recently, I have been digging deep in Augmented Reality, Artificial Intelligence, Machine Learning, and Deep Learning and primarily take responsibility of a Full Stack Developer.
 
 ### Key Facts About Me:
-- Second year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓🎓🎓
+- Third year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓🎓🎓
+- Current Full Stack Developer at [Sonero AI](https://sonero.ai)
 - Former Data Analyst/Machine Learning Developer/Software Developer at [Digital Kitchener Innovation Lab](https://www.kitchener.ca/en/strategic-plans-and-projects/digital-kitchener.aspx)
-- Current Full Stack Mobile Developer at [Felicity](https://bhsc.mcmaster.ca/the-felicity-app-enhancing-productivity-with-psychological-interventions/) 
+- Former Full Stack Mobile Developer at [Felicity](https://bhsc.mcmaster.ca/the-felicity-app-enhancing-productivity-with-psychological-interventions/) 
 - Former Firmware Developer at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/)
 - Former Full Stack Developer Lead at [Digitera Interactive](https://digitera.agency)
 - Former Back End Java Developer at [Walletifai](https://walletifai.com)
