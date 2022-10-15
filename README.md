@@ -2,7 +2,7 @@
 
 I am currently a third year Software Engineering student at Univeristy of Waterloo.
 
-I am a very dedicated coder who is very interested in web development and software engineering. Recently, I have been digging deep in Augmented Reality, Artificial Intelligence, Machine Learning, and Deep Learning and primarily take responsibility of a Full Stack Developer.
+I am a very dedicated and passionate coder who is very interested in web development and software engineering. Recently, I have been digging deep in Augmented Reality, Artificial Intelligence, Machine Learning, and Deep Learning and primarily take responsibility of a Full Stack Developer.
 
 ### Key Facts About Me:
 - Third year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓🎓🎓
