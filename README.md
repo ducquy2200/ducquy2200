@@ -6,7 +6,7 @@ I am a very dedicated and passionate coder who has a very big interest in buildi
 
 ### Key Facts About Me:
 - Third year Software Engineering student at [Univeristy of Waterloo](https://uwaterloo.ca/engineering/) 🎓🎓🎓
-- Current Full Stack Developer at [Sonero AI](https://sonero.ai)
+- Former Full Stack Developer at [Mediafly](https://www.mediafly.com)
 - Former Data Analyst/Machine Learning Developer/Software Developer at [Digital Kitchener Innovation Lab](https://www.kitchener.ca/en/strategic-plans-and-projects/digital-kitchener.aspx)
 - Former Full Stack Mobile Developer at [Felicity](https://bhsc.mcmaster.ca/the-felicity-app-enhancing-productivity-with-psychological-interventions/) 
 - Former Firmware Developer at [Midnight Sun Solar Car Racing team](https://www.uwmidsun.com/)
